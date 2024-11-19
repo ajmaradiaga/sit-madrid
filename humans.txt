@@ -30,7 +30,7 @@ Location:
 To the rest of volunteers. You rock!
 
 /* SITE */
-Last update: 2024-11-18
+Last update: 2024-11-19
 Doctype: HTML5
 Standards: HTML5, CSS3, ES6, SVG
 Software: Lume (https://lume.land/) & TOP theme
