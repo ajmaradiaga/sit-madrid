@@ -1,5 +1,5 @@
 /* TEAM */
-Web Designer/Developer:
+Web Designer/Developer: 
 Site: 
 Twitter:
 Location:
@@ -27,7 +27,7 @@ Twitter:
 Location:
 
 /* THANKS */
-To the rest of volunteers. You rock!
+To the creators of the Top theme - https://lume.land/theme/top/. You rock!
 
 /* SITE */
 Last update: 2024-11-19
