@@ -30,7 +30,7 @@ Location:
 To the creators of the Top theme - https://lume.land/theme/top/. You rock!
 
 /* SITE */
-Last update: 2025-03-11
+Last update: 2025-03-20
 Doctype: HTML5
 Standards: HTML5, CSS3, ES6, SVG
 Software: Lume (https://lume.land/) & TOP theme
